@@ -24,7 +24,6 @@ The demo in this document is conducted with a development TMC stack in which a K
 <details><summary>Screenshot</summary>
 <img src="media/2020-03-03-08-13-45.png">
 </details>
-<br/>
 
 ## Attaching a single unmanaged namespace
 
