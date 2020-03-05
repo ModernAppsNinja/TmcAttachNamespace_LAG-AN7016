@@ -25,6 +25,21 @@ The demo in this document is conducted with a development TMC stack in which a K
 <img src="media/2020-03-03-08-13-45.png">
 </details>
 
+### Before Attempting This Lab:
+
+This lab has a completion difficulty of `Partial`. Please see the rubrik below for an explanation of lab completion difficulty rankings
+
+Lab Completion Difficulty Rankings:
+
+- Lab Completion Difficulty is not a measure of how complex or difficult a topic is, it is a measure of how thorough the instructions are in the provided lab guide:
+- Difficulty Levels:
+  - `Complete`
+    - A lab guide with a difficulty of `Complete` includes comprehensive, click-by-click instructions, usually with a screenshot for every command entered. Complete labs must be associated with an online lab environment fully prepped to execute the exact instructions provided in the lab guide. Most users could successfully execute the steps in a `Complete` lab guide, even if they do not have expertise in the subject, by following detailed instructions.
+  - `Partial`
+    - A lab guide with a difficulty of `Partial` includes full instructions to complete the exercise, with enough detail to where a user with moderate experience in the subject matter could complete the exercise. `Partial` lab guides provide a level of detail similar to most technical documentation or blogs, where the user is expected to be able to configure their lab environment with dependencies required for the exercise, and to contextualize general instructions to the users own environment. 
+  - `Challenge`
+    - A lab guide with a difficulty of `Challenge` is designed to be technically challenging for the guide's target audience to complete. `Challenge` lab guides do not include comprehensive instructions, and intentionally leave out details required to complete exercises as a challenge or test of the users proficiency in a topic.
+
 ## Attaching a single unmanaged namespace
 
 #### Step1: Log into TMC & Go to Namespaces page
